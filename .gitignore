@@ -1,0 +1,8 @@
+.env
+.env.*
+!.env.example
+
+uploads/documents/*
+!uploads/documents/.gitkeep
+
+.tmp-ocr-packages-*/
