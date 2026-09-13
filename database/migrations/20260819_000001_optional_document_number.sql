@@ -1,3 +1,0 @@
--- Document Number is optional at the application level.
--- documents.document_number is already nullable in the current schema.
--- No ALTER TABLE is required for existing deployments.
